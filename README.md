@@ -1,6 +1,6 @@
 ### Ola, Sou o Vinicius Linck 👋
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-dias-linck-a52349160/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-dias-linck)
 
 ## Tecnologias do meu dia a dia
 
